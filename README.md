@@ -64,3 +64,15 @@ This repository documents my progress learning Git and GitHub through hands-on p
 
 \- Remote repository management
 
+
+
+**## Future Topics**
+
+
+
+\- Pull Requests
+
+\- Rebasing
+
+\- Cherry Picking
+
