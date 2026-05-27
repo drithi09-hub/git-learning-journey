@@ -1,82 +1,85 @@
-**# Git Learning Journey**
+**Topics Covered**
 
 
 
-This repository documents my progress learning Git and GitHub through hands-on practice.
+**01 - Basic Commits**
+
+* Repository initialization
+* Staging changes
+* Creating commits
 
 
 
-**## Topics Covered**
+**02 - Branching**
+
+* Creating branches
+* Switching branches
+* Isolating feature development
 
 
 
-**### 01 - Basic Commits**
+**03 - Merge Conflicts**
 
-\- Repository initialization
-
-\- Staging changes
-
-\- Creating commits
+* Creating merge conflicts
+* Resolving conflicts manually
+* Completing merge operations
 
 
 
-**### 02 - Branching**
+**04 - GitHub Push Workflow**
 
-\- Creating branches
-
-\- Switching branches
-
-\- Isolating feature development
+* Connecting local repositories to GitHub
+* Configuring remotes
+* Pushing code to remote repositories
 
 
 
-**### 03 - Merge Conflicts**
+**05 - Pull Requests**
 
-\- Creating merge conflicts
-
-\- Resolving conflicts manually
-
-\- Completing merge operations
-
-
-
-**### 04 - GitHub Push Workflow**
-
-\- Connecting local repositories to GitHub
-
-\- Configuring remotes
-
-\- Pushing code to remote repositories
+* Creating feature branches
+* Opening pull requests
+* Merging pull requests
+* Cleaning up merged branches
 
 
 
-**## Skills Developed**
+**06 - Git Ignore**
+
+* Ignoring unnecessary files
+* Managing secret files
+* Using .gitignore
 
 
 
-\- Git fundamentals
+**07 - Cloning Repositories**
 
-\- Version control workflows
-
-\- Branch management
-
-\- Conflict resolution
-
-\- Remote repository management
+* Downloading repositories from GitHub
+* Understanding git clone
+* Difference between git init and git clone
 
 
 
-**## Future Topics**
+**08 - Advanced Workflow Commands**
+
+* Fetch vs Pull
+* Viewing file differences
+* Temporary work storage with stash
+* Undoing staging changes
+* Removing tracked files
 
 
 
-\- Pull Requests
+&#x20;**Future Topics**
+
+
 
 \- Rebasing
 
 \- Cherry Picking
 
+\- Git Tags
 
+\- GitHub Actions
 
-\- Git Fetch vs Git Pull
+\- Open Source Contributions
 
